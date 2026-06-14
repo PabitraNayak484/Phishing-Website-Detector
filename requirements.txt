@@ -1,0 +1,6 @@
+streamlit==1.37.1
+requests==2.32.3
+plotly==5.15.0
+python-whois==1.2.0
+beautifulsoup4==4.12.2
+tldextract==3.4.0
